@@ -1,4 +1,4 @@
-# Proyecto NOC
+# Proyecto Clear Architecture and Repository-Pattern
 
 El objetivo es crear una serie de tareas usando Arquitectura Limpia con TypeScript
 
